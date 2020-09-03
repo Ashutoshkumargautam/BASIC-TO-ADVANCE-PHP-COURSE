@@ -1,6 +1,6 @@
 # Basic-to-Advance-PHP
 -----------------------
-Section - 1
+# Section - 1
 -----------
 1 Variable
 ----------
@@ -10,7 +10,7 @@ Section - 1
 ---------
 4 Associative arrays
 -----------------------
-Section - 2
+# Section - 2
 -----------------
 5
 -----------------
