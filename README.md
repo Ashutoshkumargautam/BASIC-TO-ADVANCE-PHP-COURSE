@@ -1,6 +1,6 @@
 # Basic-to-Advance-PHP
 -----------------------
-Part - 1
+Section - 1
 -----------
 1 Variable
 ----------
