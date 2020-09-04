@@ -43,6 +43,8 @@
 ------------------
 https://paypal.me/ashutosh7217723683
 --------------------------------------
+patreon.com/ashutoshkumargautam
+---------------------
 #Thank you 
 ------------
 By Ashutosh kumar gautam
