@@ -1,7 +1,7 @@
 # 🚼 Basic-to-Advance-PHP 🚹
 -------------------------------
-# Section - 1
------------
+# ➕ Section - 1
+------------------
 1 Variable
 ----------
 2 Math
@@ -10,8 +10,8 @@
 ---------
 4 Associative arrays
 -----------------------
-# Section - 2
------------------
+# ➕ Section - 2
+------------------
 5 if_else_elseif
 -----------------
 6 Comparison and Logical Operators
@@ -24,7 +24,7 @@
 -----------------
 10 for each loop
 -----------------
-# Section - 3
+# ➕ Section - 3
 -----------------
 
 # 🙏 Donate me 
