@@ -38,9 +38,12 @@
 -----------------
 
 ----------------
-#Thank you 
-By Ashutosh kumar gautam
----------------------------
+
 # 🙏 Donate me 
 ------------------
 https://paypal.me/ashutosh7217723683
+--------------------------------------
+#Thank you 
+------------
+By Ashutosh kumar gautam
+---------------------------
